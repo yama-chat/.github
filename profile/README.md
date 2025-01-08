@@ -6,7 +6,7 @@ Fun piece of trivia: it also means 'pothole' in Russian and Ukrainian, and 'moun
 
 ## Featured repositories
 
-[![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaBackendButton3.png)](https://github.com/yama-chat/Yama) [![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaWebAppButton3.png)](https://github.com/yama-chat/webapp)
+[![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaBackendButton4.png)](https://github.com/yama-chat/Yama) [![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaWebAppButton4.png)](https://github.com/yama-chat/webapp)
 
 ## What we strive for
 
