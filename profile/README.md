@@ -4,6 +4,10 @@ We are a team passionate about creating a perfect messenger. We decided to call 
 
 Fun piece of trivia: it also means 'pothole' in Russian and Ukrainian, and 'mountain' in Japanese.
 
+## Featured repositories
+
+[![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaBackendButton3.png)](https://github.com/yama-chat/Yama) [![Yama Web App](https://raw.githubusercontent.com/yama-chat/.github/refs/heads/main/YamaWebAppButton3.png)](https://github.com/yama-chat/webapp)
+
 ## What we strive for
 
 We strive to grab everything we love and value from various sources, be it Telegram, Facebook, Discord or something else, and leave behind the parts we hate.
